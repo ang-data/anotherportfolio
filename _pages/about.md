@@ -1,8 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hi, My name is Nyukshan and I am currently living in Germany. I came here 10 years ago, and completed my Bachelors and Masters Degree in Geosciences. I am currently working in a civil, environmental enngineering industry. My recent work involved conducting environemental due diligence for construction projects and writing up reports to facilate better decision making for the clients. I would like to advance my carrer into a more management role and am considering an MBA.  In my free time, I like to read travel around and do photography. 
