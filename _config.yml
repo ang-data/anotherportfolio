@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Nyukshan Ang"
-  avatar : "/assets/images/DSCF1689.jpg"
+  avatar : "/assets/images/open.jpg"
   bio    : "This is my first attempt in creating my own portfolio on Github."
   links:
     - label: "Website"
